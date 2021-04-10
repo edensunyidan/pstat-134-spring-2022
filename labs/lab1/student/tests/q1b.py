@@ -1,5 +1,5 @@
 test = {   'name': 'q1b',
-    'points': 1,
+    'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> list_sum([], [])\n[]', 'hidden': False, 'locked': False},
                                    {'code': '>>> list_sum([1], [1])\n[2]', 'hidden': False, 'locked': False},
                                    {'code': '>>> list_sum([-1], [1])\n[2]', 'hidden': False, 'locked': False},

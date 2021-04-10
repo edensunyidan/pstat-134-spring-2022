@@ -1,5 +1,5 @@
 test = {   'name': 'q1a',
-    'points': 1,
+    'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> summation(1)\n4', 'hidden': False, 'locked': False},
                                    {'code': '>>> summation(2)\n24', 'hidden': False, 'locked': False},
                                    {'code': '>>> summation(100)\n26517550', 'hidden': False, 'locked': False}],

@@ -1,5 +1,5 @@
 test = {   'name': 'q1c',
-    'points': 1,
+    'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> average(1)\n1.0', 'hidden': False, 'locked': False},
                                    {'code': '>>> average(3)\n2.0', 'hidden': False, 'locked': False},
                                    {'code': '>>> average(8)\n4.0', 'hidden': False, 'locked': False},

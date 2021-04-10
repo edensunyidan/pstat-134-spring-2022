@@ -1,5 +1,5 @@
 test = {   'name': 'q3b',
-    'points': 1,
+    'points': 3,
     'suites': [   {   'cases': [   {'code': '>>> array_sum([1], [1])\narray([2])', 'hidden': False, 'locked': False},
                                    {'code': '>>> array_sum([-1], [1])\narray([2])', 'hidden': False, 'locked': False},
                                    {'code': '>>> array_sum([1], [-1])\narray([0])', 'hidden': False, 'locked': False},

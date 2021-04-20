@@ -2,8 +2,9 @@
 .dddlab/
 .ipynb_checkpoints/
 .env
-<<<<<<< HEAD
 ../../.ipynb_checkpoints
-labs/lab2/autograder/
-=======
->>>>>>> 0ec860a8b497ab41c068639c8749d9aacdc2bcc2
+Dockerfile
+Makefile
+docker-compose.yml
+setup.sh
+

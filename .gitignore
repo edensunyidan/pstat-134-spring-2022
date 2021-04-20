@@ -1,0 +1,6 @@
+.DS_Store
+.dddlab/
+.ipynb_checkpoints/
+.env
+../../.ipynb_checkpoints
+labs/lab2/autograder/
